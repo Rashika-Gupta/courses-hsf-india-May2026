@@ -1,3 +1,6 @@
+[submodule "HSF-India-GPU-IISER-Pune-2026"]
+	path = HSF-India-GPU-IISER-Pune-2026
+	url = https://github.com/brij01/HSF-India-GPU-IISER-Pune-2026.git
 [submodule "intro-to-ml-exercises"]
 	path = intro-to-ml-exercises
 	url = ../../ligerlac/intro-to-ml-exercises.git
